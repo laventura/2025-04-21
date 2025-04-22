@@ -1,4 +1,6 @@
+// Atul Acharya 
 // 01 - Particle System - using Perling noise 
+
 
 let particles = [];
 let n = 200;
